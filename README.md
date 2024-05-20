@@ -63,3 +63,11 @@ php artisan serve
 npm run dev
 
 ```
+
+# vedere le rotte 
+
+``` bash
+
+php artisan route:list
+
+```
