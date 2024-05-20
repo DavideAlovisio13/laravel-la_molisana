@@ -1,1 +1,8 @@
+@use './partials/_variables.scss' as *;
 @import '~bootstrap/scss/bootstrap';
+
+
+
+h1 {
+    color: $primary-color;
+}
